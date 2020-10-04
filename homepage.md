@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ''
+title: My First Home Page
 date: 
 page_sections:
 - template: detail-content
